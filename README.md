@@ -1,5 +1,3 @@
-# Notebooks
-
 # Some ML project notebooks:
 
 - Client segmentation with clustering and visualisation
